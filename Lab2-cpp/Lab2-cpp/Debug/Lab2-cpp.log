@@ -1,0 +1,4 @@
+﻿  Lab2cpp.cpp
+c:\users\crist\onedrive\documents\info@ubb\semestrul5\criptografie\lab2-cpp\lab2-cpp\lab2cpp.cpp(61): warning C4715: 'gcdBrute': not all control paths return a value
+  Lab2-cpp.vcxproj -> C:\Users\crist\OneDrive\Documents\Info@Ubb\Semestrul5\Criptografie\Lab2-cpp\Debug\Lab2-cpp.exe
+  Lab2-cpp.vcxproj -> C:\Users\crist\OneDrive\Documents\Info@Ubb\Semestrul5\Criptografie\Lab2-cpp\Debug\Lab2-cpp.pdb (Partial PDB)
